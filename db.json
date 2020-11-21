@@ -1,9 +1,20 @@
-{
-  "imei": [
-    "101",
-    "102",
-    "103",
-    "104",
-    "105"
-  ]
-}
+[
+    {
+      "id": 1,
+      "version": "A",
+      "description": "description 01",
+      "title": "title 01"
+    },
+    {
+      "id": 2,
+      "version": "B",
+      "description": "description 02",
+      "title": "title 02"
+    },
+    {
+      "id": 3,
+      "version": "A",
+      "description": "description 03",
+      "title": "title 03"
+    }
+]
