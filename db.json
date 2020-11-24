@@ -1,11 +1,8 @@
 {
-  "args": {},
   "headers": {
     "Accept": "aaa",
     "Accept-Encoding": "aaa",
     "Accept-Language": "aaa",
     "X-Amzn-Trace-Id": "aaa"
-  },
-  "origin": "aaa",
-  "url": "aaa"
+  }
 }
