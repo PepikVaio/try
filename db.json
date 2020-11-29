@@ -1,22 +1,10 @@
 {
-  "status": "ok",
-  "count": 2,
-  "categories": [
-    {
-      "id": 2,
-      "slug": "lifeinit",
-      "title": "Life in IT, Anti-Patterns of Efficiency",
-      "description": "",
-      "parent": 0,
-      "post_count": 2
-    },
-    {
-      "id": 3,
-      "slug": "mobile-computing",
-      "title": "Mobile Computing",
-      "description": "",
-      "parent": 0,
-      "post_count": 1
-    }
-  ]
+  "posts": {
+    "aaa": [
+      "lkcldksa"
+    ],
+    "body": "body",
+    "id": 1,
+    "title": "title"
+  }
 }
